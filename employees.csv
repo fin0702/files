@@ -1,0 +1,2 @@
+employeeNumber,contactInformation.workEmail,employmentDetails.hireDate,employmentDetails.employmentType,employmentDetails.employmentSate,employmentDetails.directManager.employeeNumber,employmentDetails.directManager.personalDetails.legalFirstName,employmentDetails.directManager.personalDetails.legalLastName,employmentDetails.jobTitle,employmentDetails.location,personalDetails.legalFirstName,personalDetails.legalLastName,personalDetails.legalMiddleName
+MATT-00001,test@user.com,05/01/2023,PERMANENT,ACTIVE,MATT-00101,Mr,Supervisor,Intern,Marlow,Billy,Hopkins,
